@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- load script 
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+    
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Kamermuziek</title>
+  <meta name="a webpage for my friends @ kamermuziek" content="">
+  <meta name="Mark" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/jpg" href="images/kamerlogo.jpg">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <!-- title
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="container" >
+
+    <!-- welcome ––––––––––––––––––––––––– -->
+    <div class='row' id="fade" style='margin-top: 30%'>
+      <div class="six columns"  >
+        <a href= "kamermuziek.html"><center><img src="images/logox.jpg" alt="icon" width="100%"></center></a>
+      </div>
+      <div class ="one columns" id="poo">
+        <img src="images/line.jpg" alt="line" width="5%">
+      </div>
+      <div class="five columns"  >
+        <a href= "voor_de_zonnevloed.html"><center><img src="images/logox_zonnevloed.jpg" alt="icon" width="100%"></center></a>
+      </div>
+    </div>
+    
+  </div> 
+  <div class = 'row'>
+  <hr width="10" size="500">
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
